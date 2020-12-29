@@ -1,4 +1,4 @@
-### Yancey Leo　です、よろしくお願いします。 👋
+### Yancey Leo です、よろしくお願いします。 👋
 
 - 🔭 I’m currently working on [my blog app](https://github.com/Yancey-Blog/blog-app).
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/).
