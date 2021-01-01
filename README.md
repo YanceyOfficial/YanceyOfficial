@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/).
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [mailto:yanceyofficial@gmail.com](yanceyofficial#gmail.com)
+- 📫 How to reach me: [yanceyofficial#gmail.com](mailto:yanceyofficial@gmail.com)
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=YanceyOfficial&show_icons=true&hide_border=true)
