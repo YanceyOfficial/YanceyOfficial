@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [my blog app](https://github.com/Yancey-Blog/blog-app).
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/).
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭.
+- 🤔 I’m fucked by Data Structures and Algorithms 😭.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [yanceyofficial#gmail.com](mailto:yanceyofficial@gmail.com)
 
