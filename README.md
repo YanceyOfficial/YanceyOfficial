@@ -1,4 +1,4 @@
-### Yancey Leo です、よろしくお願いします。 👋
+### Official GitHub account of Yancey Leo.👋
 
 - 🔭  I’m currently working on nothing 💔.
 - 🌱  I’m currently learning [React Source Code](https://github.com/facebook/react) ⚛️.
