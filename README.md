@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 💌yanceyofficial@gmail.com & 💌developer@yanceyleo.com
 - 😊 Nice to meet you!
 
-#### 🛠 Languages and Tools  
+#### 🛠 Languages and Tools
 
 <p>
   <code><img height="20" src="./assets/JavaScript.png"></code>
@@ -68,10 +68,3 @@ Here are some ideas to get you started:
   <img align="left" alt="YanceyOfficial | Weibo" width="21px" height="20" src="./assets/facebook.svg" /></a>
 <a href="https://weibo.com">
   <img align="left" alt="YanceyOfficial | Weibo" width="21px" height="20" src="./assets/weibo.svg" /></a>
-
-
-<!-- **Item**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YanceyOfficial&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
