@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 #### :raised_hand: About Me
 
 - 🌟 Motto: 死は生の対極としてではなく、その一部として存在している。.
-- 🌱 Hobby: Software engineer | Music Producer.
+- 🌱 Occupation: Software engineer | Music Producer.
 - 🤟 Blog: [Yancey Official Blog](https://www.yanceyleo.com)
-- 🏡 Hometown: Tokyo, Japan
-- ⚡ Fun fact: Oops!😝😝😝
-- 📫 How to reach me: 💌yanceyofficial@gmail.com & 💌developer@yanceyleo.com
+- 🏡 Hometown: Tokyo, Japan.
+- 📫 How to reach me: 💌developer@yanceyleo.com
 - 😊 Nice to meet you!
 
 #### 🛠 Languages and Tools
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
 
 <p>
   <img height="186em" src="https://github-readme-stats.vercel.app/api?username=YanceyOfficial&show_icons=true&theme=gruvbox&include_all_commits=true&show_owner=true"/>
-  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YanceyOfficial&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=gruvbox"/>
+  <img height="186em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YanceyOfficial&langs_count=10&layout=compact&theme=gruvbox"/>
 </p>
 
 <p>
