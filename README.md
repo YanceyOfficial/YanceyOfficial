@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 #### :raised_hand: About Me
 
-- 🌟 Motto: 死は生の対極としてではなく、その一部として存在している。.
 - 🌱 Occupation: Software engineer | Music Producer.
 - 🤟 Blog: [Yancey Official Blog](https://www.yanceyleo.com)
 - 🏡 Hometown: Tokyo, Japan.
@@ -59,11 +58,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/YanceyOfficial">
   <img align="left" alt="YanceyOfficial | GitHub" width="21px" height="20" src="./assets/github.svg" /></a>
-<a href="https://www.instagram.com">
+<a href="https://www.instagram.com/yanceyofficial">
   <img align="left" alt="YanceyOfficial | Instagram" width="21px" height="20" src="./assets/instagram.svg" /></a>
 <a href="https://twitter.com/YanceyOfficial">
   <img align="left" alt="YanceyOfficial | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
-<a href="https://www.facebook.com">
+<a href="https://www.facebook.com/yancey.leo.79/">
   <img align="left" alt="YanceyOfficial | Weibo" width="21px" height="20" src="./assets/facebook.svg" /></a>
-<a href="https://weibo.com">
-  <img align="left" alt="YanceyOfficial | Weibo" width="21px" height="20" src="./assets/weibo.svg" /></a>
