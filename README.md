@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/YanceyOfficial">
   <img align="left" alt="YanceyOfficial | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
 <a href="https://www.facebook.com/yancey.leo.79/">
-  <img align="left" alt="YanceyOfficial | Weibo" width="21px" height="20" src="./assets/facebook.svg" /></a>
+  <img align="left" alt="YanceyOfficial | Facebook" width="21px" height="20" src="./assets/facebook.svg" /></a>
