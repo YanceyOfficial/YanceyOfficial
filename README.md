@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 💌developer@yanceyleo.com
 - 😊 Nice to meet you!
 
-#### 🛠 Languages and Tools
+<!-- #### 🛠 Languages and Tools
 
 <p>
   <code><img height="20" src="./assets/JavaScript.png"></code>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <code><img height="20" src="./assets/android.png"></code>
   <code><img height="20" src="./assets/c.png"></code>
   <code><img height="20" src="./assets/sql.png"></code>
-</p>
+</p> -->
   
 #### :trophy: Coding Info
 
