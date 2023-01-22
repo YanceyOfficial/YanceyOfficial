@@ -50,10 +50,6 @@ Here are some ideas to get you started:
   <img height="186em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=YanceyOfficial&langs_count=10&layout=compact&theme=gruvbox"/>
 </p>
 
-<p>
-  <img height="286em" src="https://activity-graph.herokuapp.com/graph?username=YanceyOfficial&theme=xcode"/>
-</p>
-
 #### :hearts: Following Me
 
 <a href="https://github.com/YanceyOfficial">
